@@ -1,0 +1,30 @@
+@media screen and (max-width:1399px){
+    .res_1{
+        background: rgb(0, 255, 153);
+    }
+}
+
+@media screen and (max-width:1199px){
+    .res_1{
+        background: rgb(26, 96, 208);
+    }
+    
+}
+
+@media screen and (max-width:991px){
+    .res_1{
+        background: yellowgreen;
+    }
+}
+
+@media screen and (max-width:768px){
+    .res_1{
+        background: violet;
+    }
+}
+
+@media screen and (max-width:576px){
+    .res_1{
+        background: steelblue;
+    }
+}
